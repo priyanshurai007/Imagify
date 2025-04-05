@@ -1,0 +1,15 @@
+ to client >> npm create vite@latest
+ to client >> npm install
+ to client means frontend install tailwindcss installion setup guid using vite
+ to client npm install react-router-dom
+ import outfit font from google and paste it to index.css file
+ npm install motion
+
+
+ frontend part over 
+
+ to server >> npm init and keep hit enter also befor create the server.js file in server(optional)
+
+ to server >> npm i express cors dotenv nodemon form-data jsonwebtoken mongoose axios bcrypt razorpay 
+ setup mongodb and create schema 
+ 
